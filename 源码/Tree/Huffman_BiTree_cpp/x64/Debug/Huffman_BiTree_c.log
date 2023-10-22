@@ -1,0 +1,5 @@
+﻿  Huffman.cpp
+  test.cpp
+D:\C\Huffman_BiTree_c\test.cpp(15,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Huffman_BiTree_c.vcxproj -> D:\C\Huffman_BiTree_c\x64\Debug\Huffman_BiTree_c.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Gitee_bank\Data_Structure_code\kmp\Project1\源.cpp(26,11): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Gitee_bank\Data_Structure_code\kmp\Project1\源.cpp(80,12): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\Gitee_bank\Data_Structure_code\kmp\Project1\x64\Debug\Project1.exe
